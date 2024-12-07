@@ -1,6 +1,6 @@
 # Hi, I'm Andrew 👋
 Middle Software Engineer > 3 years of commertial experience. I have good knowledge in backend development on Python.
-I also know some about fronted development: js, html and etc.
+I also know some about fronted: js, html and etc.
 
 In general worked with monolitic and microservice arthitectures.
 <p align = 'center'>
@@ -32,10 +32,15 @@ In general worked with monolitic and microservice arthitectures.
    * Integration with broker
    * Create docker file
 * On JS (React) - some month
-* * Bug fix
+  * Bug fix
   * Minor improvements
 
 ## :palm_tree: Work-life balance
 In my free time, I like to walk in the fresh air, enjoy nature and think about new ideas for projects.
 I also enjoy reading books, especially science fiction and self-development literature - it helps me relax.
 Like to chat with friends and play board games.
+
+## :computer: Projects
+* Interview  task for yandex school, [link](https://github.com/andrekur/yandex-school-task). Create service for save products price.
+* REST API for book store, [link](https://github.com/andrekur/book_api). Create service for book store. Full CRUD operations for book in store.
+* My first big Fronted project, [link](https://github.com/andrekur/movies-explorer-frontend). Create fronted and backend for online cinema. 
