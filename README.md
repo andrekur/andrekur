@@ -2,6 +2,8 @@
 Middle Software Engineer > 3 years of commertial experience. I have good knowledge in backend development on Python.
 I also know some about fronted: js, html and etc.
 
+Email:  kurepin.andre@yandex.ru
+
 In general worked with monolitic and microservice arthitectures.
 <p align = 'center'>
  <a href="https://github-readme-stats.vercel.app/api?username=andrekur&show_icons=true&count_private=true"><img height=150 src="https://github-readme-stats.vercel.app/api?username=andrekur&show_icons=true&count_private=true" /></a>
@@ -22,16 +24,16 @@ In general worked with monolitic and microservice arthitectures.
 *   Mentoring and Teaching
 
 ## :mortar_board: Experience
-*   On Python (monolitic, Django, DRF) - 2 years
+*   Python monolitic (Django, DRF) - 2 years
     * Development REST APIs
     * Design and integration with systems: BI, 1C and other
     * Crate new features and new django app
     * Bug fix and code review
-*  On Python (microservice, FastApi, Alembic, Pydantic, SQLAlchemy) - 1 year
+*  Python microservice (FastApi, Alembic, Pydantic, SQLAlchemy) - 1 year
    * Development microservice
    * Integration with broker
    * Create docker file
-* On JS (React) - some month
+* JS (React) - some month
   * Bug fix
   * Minor improvements
 
