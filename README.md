@@ -41,6 +41,6 @@ I also enjoy reading books, especially science fiction and self-development lite
 Like to chat with friends and play board games.
 
 ## :computer: Projects
-* Interview  task for yandex school, [link](https://github.com/andrekur/yandex-school-task). Create service for save products price.
+* Interview  task for Yandex school, [link](https://github.com/andrekur/yandex-school-task). Create service for save products price.
 * REST API for book store, [link](https://github.com/andrekur/book_api). Create service for book store. Full CRUD operations for book in store.
 * My first big Fronted project, [link](https://github.com/andrekur/movies-explorer-frontend). Create fronted and backend for online cinema. 
