@@ -5,8 +5,9 @@
 
 Here are some ideas to get you started:
 <p align = 'center'>
-    <a href="https://github.com/andrekur/github-readme-stats"><img height=150 src="https://github-readme-stats.vercel.app/api/top-langs/?username=andrekur&layout=compact" /></a>
-</p>
+ <a href="https://github-readme-stats.vercel.app/api?username=andrekur&show_icons=true&count_private=true"><img height=150 src="https://github-readme-stats.vercel.app/api?username=andrekur&show_icons=true&count_private=true" /></a>
+<a href="https://github.com/andrekur/github-readme-stats"><img height=150 src="https://github-readme-stats.vercel.app/api/top-langs/?username=andrekur&layout=compact" /></a>
+ </p>
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
